@@ -1,0 +1,22 @@
+Policy
+v v v v v v v v > > 
+v v v v v v v < > > 
+> v v v v v v G v > 
+> v v v v v v > v < 
+> I v v v v v v v < 
+> > > v v v v v v v 
+> > > > v v v v v < 
+> > > > v v v v v < 
+> > > > v v > v v v 
+> > > > > > > > > G 
+ATTACK POINTS
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
